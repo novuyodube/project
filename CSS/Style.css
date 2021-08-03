@@ -1,0 +1,15 @@
+body{
+    background-color: aquamarine;
+
+}
+.bg-image{
+    background-image:url("../images/calculator\ 2.jfif");
+    height: 100vh;
+    -webkit-filter: blur(2px);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+
+}
